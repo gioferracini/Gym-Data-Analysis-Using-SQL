@@ -1,0 +1,101 @@
+ID_Professor;Nome_Completo;Data_Nascimento;Idade;Sexo;Telefone;EndereÁo;Bairro;Cidade;UF;Email;Perfil;Sal·rio;Data_Matricula;Status
+1;Yago Silva;1989-12-03;35;M;(11) 95853-2356;Avenida Mateo Bei, 4696;S„o Mateus;S„o Paulo;SP;yago9151@hotmail.com;Senior;7189.47;2022-08-11;Ativo
+2;Asafe Viana;1993-07-31;31;M;(11) 98670-7308;Rua Augusto Carlos Bauman, 1331;Itaquera;S„o Paulo;SP;asafe7990@gmail.com;Junior;2318.71;2024-07-18;Ativo
+3;Augusto Dias;1979-04-09;45;M;(11) 93130-4584;Avenida Itaquera, 5208;Itaquera;S„o Paulo;SP;augusto6318@hotmail.com;Senior;6039.0;2024-02-03;Ativo
+4;Isabela Novais;2002-12-05;22;F;(11) 96032-2672;Rua Otelo Augusto, 6656;Vila Formosa;S„o Paulo;SP;isabela7553@gmail.com;Junior;2416.76;2021-02-08;Ativo
+5;Raul Marques;1997-06-02;27;M;(11) 99698-8416;Rua Bresser, 371;Br·s;S„o Paulo;SP;raul4352@hotmail.com;Junior;2400.14;2024-03-02;Ativo
+6;Noah Sampaio;2005-07-30;19;M;(11) 99321-6467;Rua Tuiuti, 5906;TatuapÈ;S„o Paulo;SP;noah7231@outlook.com;Junior;2225.93;2023-11-03;Ativo
+7;Liz Fonseca;1980-08-02;44;F;(11) 95520-9676;Rua Bresser, 6367;Br·s;S„o Paulo;SP;liz8088@bol.com.br;Junior;2441.01;2023-09-27;Ativo
+8;Stella Fonseca;1968-11-23;56;F;(11) 95361-4911;Rua Herval, 1919;BelÈm;S„o Paulo;SP;stella8719@outlook.com;Junior;2079.71;2021-06-18;Inativo
+9;Davi Luiz Azevedo;1976-05-10;48;M;(11) 95395-9112;Avenida Itaquera, 6521;Itaquera;S„o Paulo;SP;davi2803@gmail.com;Junior;2329.83;2023-05-29;Ativo
+10;Diego Ferreira;1979-08-05;45;M;(11) 98811-6002;Avenida Regente FeijÛ, 150;Jardim An·lia Franco;S„o Paulo;SP;diego3910@terra.com.br;Junior;2754.86;2020-01-22;Ativo
+11;Matheus Pastor;1978-02-18;46;M;(11) 98775-8011;Rua Bresser, 3169;Br·s;S„o Paulo;SP;matheus342@hotmail.com;Pleno;3854.58;2022-09-22;Inativo
+12;Bryan Pires;1975-11-01;49;M;(11) 95055-8742;Rua Bresser, 259;Br·s;S„o Paulo;SP;bryan741@outlook.com;Pleno;4957.9;2022-12-13;Ativo
+13;Sr. Diego Martins;1989-06-12;35;M;(11) 92638-5990;Rua Eleonora Cintra, 8706;Jardim An·lia Franco;S„o Paulo;SP;sr.5500@terra.com.br;Junior;3132.49;2024-08-22;Ativo
+14;Sra. Ester Souza;1986-01-04;38;F;(11) 95933-6467;Rua Juvenal Galeno, 8070;Mooca;S„o Paulo;SP;sra.9761@bol.com.br;Pleno;4646.88;2021-11-04;Ativo
+15;Elo· FogaÁa;1969-01-21;55;F;(11) 99156-1506;Rua Eleonora Cintra, 2523;Jardim An·lia Franco;S„o Paulo;SP;elo·9464@gmail.com;Junior;2989.05;2023-08-08;Ativo
+16;Sra. Sophia Cavalcante;1980-02-14;44;F;(11) 99927-8360;Rua Augusto Carlos Bauman, 3275;Itaquera;S„o Paulo;SP;sra.2867@bol.com.br;Senior;5877.76;2023-03-28;Ativo
+17;Ana Luiza da Costa;2004-10-31;20;F;(11) 99520-6624;Rua Juvenal Galeno, 6506;Mooca;S„o Paulo;SP;ana2015@terra.com.br;Pleno;4273.31;2023-09-06;Inativo
+18;Nat·lia Novaes;1999-09-04;25;F;(11) 98640-3461;Avenida Mateo Bei, 4825;S„o Mateus;S„o Paulo;SP;nat·lia4748@bol.com.br;Junior;2748.39;2020-03-27;Ativo
+19;Noah Machado;1977-08-14;47;M;(11) 93022-1871;Avenida Mateo Bei, 1158;S„o Mateus;S„o Paulo;SP;noah5011@uol.com.br;Junior;2680.79;2022-04-22;Ativo
+20;Liam Ramos;1983-04-21;41;M;(11) 99224-3540;Rua da Mooca, 917;Mooca;S„o Paulo;SP;liam4435@outlook.com;Junior;2525.33;2021-10-26;Ativo
+21;Thomas Nunes;1996-11-18;28;M;(11) 96810-5075;Avenida Itaquera, 9688;Itaquera;S„o Paulo;SP;thomas6329@terra.com.br;Pleno;4047.14;2019-11-27;Ativo
+22;Srta. Ana Laura da Mota;1981-11-26;43;F;(11) 96283-3280;Rua Oriente, 5048;Br·s;S„o Paulo;SP;srta.3269@ig.com.br;Junior;2845.86;2022-06-26;Ativo
+23;Maya Vieira;1970-02-01;54;F;(11) 98555-9942;Rua Doutor Jo„o Ribeiro, 5032;Penha;S„o Paulo;SP;maya6160@gmail.com;Junior;2446.0;2022-06-03;Ativo
+24;Srta. Maria J˙lia Jesus;1968-04-22;56;F;(11) 98006-8643;Avenida Conselheiro Carr„o, 5232;Carr„o;S„o Paulo;SP;srta.6722@uol.com.br;Senior;7994.09;2024-08-25;Ativo
+25;Aylla Nascimento;1965-03-29;59;F;(11) 94975-9391;Rua Tuiuti, 6996;TatuapÈ;S„o Paulo;SP;aylla2086@hotmail.com;Junior;2922.81;2019-12-29;Ativo
+26;LavÌnia Montenegro;1966-05-27;58;F;(11) 98540-1890;Rua Doutor Jo„o Ribeiro, 6701;Penha;S„o Paulo;SP;lavÌnia897@outlook.com;Pleno;5518.7;2019-01-25;Ativo
+27;Marcela Novaes;2001-03-23;23;F;(11) 91997-2989;Rua Oriente, 9837;Br·s;S„o Paulo;SP;marcela9579@ig.com.br;Pleno;4913.61;2020-02-03;Ativo
+28;Fernando Teixeira;1995-06-21;29;M;(11) 93535-5929;Rua Augusto Carlos Bauman, 9308;Itaquera;S„o Paulo;SP;fernando5094@ig.com.br;Junior;2335.32;2024-07-21;Ativo
+29;Luiz Felipe da Rosa;2000-02-20;24;M;(11) 99516-2587;Rua Maria Augusta da Silva, 1979;S„o Mateus;S„o Paulo;SP;luiz3348@gmail.com;Junior;2229.53;2019-10-03;Ativo
+30;Rhavi Cassiano;1985-04-01;39;M;(11) 94015-4849;Rua Toledo Barbosa, 6501;BelÈm;S„o Paulo;SP;rhavi8958@terra.com.br;Junior;2449.89;2019-08-16;Ativo
+31;J˙lia Correia;2000-11-09;24;F;(11) 94943-3797;Avenida Jo„o XXIII, 2118;Vila Formosa;S„o Paulo;SP;j˙lia8957@bol.com.br;Junior;2954.3;2023-11-06;Ativo
+32;Yago Melo;1985-05-11;39;M;(11) 97409-7321;Avenida Mateo Bei, 4842;S„o Mateus;S„o Paulo;SP;yago1759@ig.com.br;Senior;7225.37;2020-02-14;Ativo
+33;Agatha Melo;1982-09-13;42;F;(11) 95960-1558;Rua Doutor Jo„o Ribeiro, 558;Penha;S„o Paulo;SP;agatha7283@ig.com.br;Pleno;3800.32;2022-03-06;Ativo
+34;VinÌcius Silva;2004-09-25;20;M;(11) 99202-9244;Rua da Mooca, 7766;Mooca;S„o Paulo;SP;vinÌcius5716@gmail.com;Pleno;3522.8;2024-02-21;Ativo
+35;Manuela Siqueira;1987-01-05;37;F;(11) 93294-5560;Rua Bresser, 2580;Br·s;S„o Paulo;SP;manuela4964@terra.com.br;Senior;8017.23;2022-12-12;Ativo
+36;Zoe Vieira;1967-01-22;57;F;(11) 99608-5247;Avenida Mateo Bei, 7829;S„o Mateus;S„o Paulo;SP;zoe5310@gmail.com;Senior;7979.75;2021-01-08;Ativo
+37;OlÌvia Arag„o;1990-03-21;34;F;(11) 92581-2740;Avenida Jo„o XXIII, 1207;Vila Formosa;S„o Paulo;SP;olÌvia7806@uol.com.br;Junior;3278.05;2019-07-04;Ativo
+38;Nina Pereira;1998-02-01;26;F;(11) 97882-2054;Rua Augusto Carlos Bauman, 1827;Itaquera;S„o Paulo;SP;nina4104@outlook.com;Senior;8623.65;2020-12-13;Ativo
+39;Ryan Freitas;1965-09-05;59;M;(11) 97187-3182;Rua Oriente, 6232;Br·s;S„o Paulo;SP;ryan9401@ig.com.br;Junior;2481.74;2019-05-01;Ativo
+40;Levi Moraes;1972-10-11;52;M;(11) 99659-4150;Avenida Regente FeijÛ, 7268;Jardim An·lia Franco;S„o Paulo;SP;levi9538@outlook.com;Junior;2301.79;2022-03-17;Ativo
+41;Luan Carvalho;1992-03-21;32;M;(11) 99955-2179;Rua Bresser, 644;Br·s;S„o Paulo;SP;luan3037@hotmail.com;Junior;2539.34;2020-07-29;Ativo
+42;Ana Julia MendonÁa;1972-07-12;52;F;(11) 93258-2100;Avenida Itaquera, 8305;Itaquera;S„o Paulo;SP;ana7005@uol.com.br;Pleno;5046.2;2022-12-13;Ativo
+43;Allana Ferreira;2003-03-16;21;F;(11) 91843-9856;Rua Bresser, 2183;Br·s;S„o Paulo;SP;allana370@hotmail.com;Pleno;3752.28;2024-10-19;Ativo
+44;Thales Pacheco;2000-11-03;24;M;(11) 95719-2225;Avenida Regente FeijÛ, 6496;Jardim An·lia Franco;S„o Paulo;SP;thales9427@bol.com.br;Junior;3308.66;2023-01-05;Ativo
+45;Sr. Thales Borges;2002-04-09;22;M;(11) 98716-5309;Avenida Celso Garcia, 6640;TatuapÈ;S„o Paulo;SP;sr.492@ig.com.br;Senior;7941.31;2019-08-21;Ativo
+46;Vitor GonÁalves;1979-03-01;45;M;(11) 96400-2021;Avenida Gabriela Mistral, 3385;Penha;S„o Paulo;SP;vitor8087@gmail.com;Junior;2208.93;2022-10-02;Ativo
+47;Luiz Henrique Vasconcelos;2000-02-20;24;M;(11) 92320-8844;Rua Otelo Augusto, 5766;Vila Formosa;S„o Paulo;SP;luiz4433@gmail.com;Pleno;4995.37;2019-10-17;Ativo
+48;Apollo Lima;1968-08-31;56;M;(11) 94731-1351;Rua Toledo Barbosa, 8416;BelÈm;S„o Paulo;SP;apollo432@outlook.com;Senior;6725.9;2021-07-11;Ativo
+49;Emanuel Pereira;1987-12-18;37;M;(11) 93051-8040;Avenida Jo„o XXIII, 396;Vila Formosa;S„o Paulo;SP;emanuel6994@ig.com.br;Junior;2580.69;2024-05-28;Ativo
+50;Dr. Benjamin Arag„o;1969-03-08;55;M;(11) 94902-4801;Rua Maria Augusta da Silva, 6124;S„o Mateus;S„o Paulo;SP;dr.9644@outlook.com;Junior;2514.69;2022-12-11;Ativo
+51;Eduardo Ara˙jo;1974-03-10;50;M;(11) 93958-5630;Rua Doutor Jo„o Ribeiro, 344;Penha;S„o Paulo;SP;eduardo5147@outlook.com;Junior;2114.92;2021-10-20;Ativo
+52;Joana Macedo;1991-01-08;33;F;(11) 92251-5099;Avenida Itaquera, 2225;Itaquera;S„o Paulo;SP;joana3373@bol.com.br;Pleno;5143.96;2023-06-18;Ativo
+53;Srta. Carolina Aparecida;1995-08-20;29;F;(11) 95001-9631;Rua da Mooca, 7366;Mooca;S„o Paulo;SP;srta.5225@hotmail.com;Pleno;5450.52;2022-05-24;Ativo
+54;Dr. Vitor Hugo Fernandes;1966-06-03;58;M;(11) 99535-4777;Rua Juvenal Galeno, 8066;Mooca;S„o Paulo;SP;dr.9060@hotmail.com;Junior;2305.33;2022-02-19;Ativo
+55;Dr. Danilo C‚mara;1969-07-04;55;M;(11) 92871-1348;Rua da Mooca, 687;Mooca;S„o Paulo;SP;dr.554@uol.com.br;Senior;7040.97;2021-08-20;Ativo
+56;Srta. Ester Costa;1976-06-20;48;F;(11) 99115-1308;Avenida Jo„o XXIII, 5021;Vila Formosa;S„o Paulo;SP;srta.6269@terra.com.br;Junior;2418.64;2019-12-13;Ativo
+57;Srta. Maria J˙lia Rodrigues;1983-12-01;41;F;(11) 95999-1512;Rua Herval, 3470;BelÈm;S„o Paulo;SP;srta.5699@bol.com.br;Junior;2989.89;2023-04-03;Ativo
+58;Leonardo da Costa;2004-10-27;20;M;(11) 98111-8004;Avenida Jo„o XXIII, 4401;Vila Formosa;S„o Paulo;SP;leonardo936@terra.com.br;Junior;2511.42;2021-06-05;Ativo
+59;Rafael Cunha;1988-10-26;36;M;(11) 99501-5261;Avenida Gabriela Mistral, 8861;Penha;S„o Paulo;SP;rafael6248@gmail.com;Pleno;4931.51;2024-03-13;Ativo
+60;Emilly Campos;1997-06-12;27;F;(11) 95094-9893;Rua Augusto Carlos Bauman, 348;Itaquera;S„o Paulo;SP;emilly5531@hotmail.com;Senior;8828.39;2022-02-23;Ativo
+61;Allana Vargas;1965-09-24;59;F;(11) 91202-3036;Avenida Jo„o XXIII, 6026;Vila Formosa;S„o Paulo;SP;allana9314@hotmail.com;Senior;6376.8;2022-01-05;Ativo
+62;LetÌcia Ara˙jo;2001-07-02;23;F;(11) 96877-8867;Rua Eleonora Cintra, 7371;Jardim An·lia Franco;S„o Paulo;SP;letÌcia9120@ig.com.br;Junior;2659.86;2024-03-10;Ativo
+63;Dante Aparecida;1982-04-30;42;M;(11) 95524-5252;Rua Herval, 4629;BelÈm;S„o Paulo;SP;dante8109@terra.com.br;Junior;2660.66;2022-07-10;Ativo
+64;Isaque Souza;1974-03-15;50;M;(11) 99302-8214;Rua AntÙnio de Barros, 912;Carr„o;S„o Paulo;SP;isaque5200@bol.com.br;Junior;2981.9;2021-08-11;Ativo
+65;Anthony GonÁalves;1988-10-28;36;M;(11) 96789-9854;Rua Augusto Carlos Bauman, 4344;Itaquera;S„o Paulo;SP;anthony733@ig.com.br;Junior;3017.58;2021-11-20;Ativo
+66;Ian Silva;1979-09-08;45;M;(11) 96337-7084;Rua Bresser, 8405;Br·s;S„o Paulo;SP;ian6816@terra.com.br;Junior;2766.55;2023-12-23;Ativo
+67;Dr. Raul Cunha;1992-10-16;32;M;(11) 97686-7139;Avenida Gabriela Mistral, 2444;Penha;S„o Paulo;SP;dr.4818@uol.com.br;Pleno;5017.42;2019-04-12;Ativo
+68;Joaquim Camargo;1971-03-11;53;M;(11) 96129-9368;Rua da Mooca, 4865;Mooca;S„o Paulo;SP;joaquim8327@ig.com.br;Senior;5589.37;2020-09-06;Ativo
+69;Aurora da Costa;2006-02-28;18;F;(11) 92285-2266;Avenida Itaquera, 9646;Itaquera;S„o Paulo;SP;aurora9264@gmail.com;Senior;8041.91;2019-05-14;Ativo
+70;Dra. Larissa Oliveira;1988-03-05;36;F;(11) 95801-4998;Rua Bresser, 7838;Br·s;S„o Paulo;SP;dra.3983@hotmail.com;Senior;7043.56;2024-11-18;Ativo
+71;Sra. Sophie da Paz;1974-05-10;50;F;(11) 96929-2305;Avenida Mateo Bei, 1990;S„o Mateus;S„o Paulo;SP;sra.9183@hotmail.com;Pleno;5332.0;2021-09-14;Ativo
+72;Vicente da Rosa;2005-01-10;19;M;(11) 93052-9808;Rua Juvenal Galeno, 3874;Mooca;S„o Paulo;SP;vicente6679@gmail.com;Pleno;4074.41;2024-01-13;Ativo
+73;Nicolas da Paz;1991-03-01;33;M;(11) 93431-9096;Avenida Regente FeijÛ, 5696;Jardim An·lia Franco;S„o Paulo;SP;nicolas3246@ig.com.br;Junior;2122.26;2022-07-09;Ativo
+74;Sr. Felipe Cunha;2003-04-25;21;M;(11) 98698-2654;Rua Maria Augusta da Silva, 2832;S„o Mateus;S„o Paulo;SP;sr.559@gmail.com;Pleno;4158.44;2020-05-09;Ativo
+75;Isis Cassiano;1965-01-27;59;F;(11) 96805-3088;Rua AntÙnio de Barros, 2268;Carr„o;S„o Paulo;SP;isis9125@uol.com.br;Senior;8715.18;2024-10-10;Ativo
+76;Sr. Luiz Miguel Fonseca;1995-12-09;29;M;(11) 91741-2208;Rua Eleonora Cintra, 5618;Jardim An·lia Franco;S„o Paulo;SP;sr.5816@ig.com.br;Senior;7630.65;2022-10-10;Ativo
+77;Caroline Azevedo;2004-11-06;20;F;(11) 99345-2372;Avenida Gabriela Mistral, 7238;Penha;S„o Paulo;SP;caroline128@gmail.com;Pleno;5250.28;2022-03-30;Ativo
+78;Heloisa Pinto;1994-03-25;30;F;(11) 92587-4805;Avenida Mateo Bei, 5350;S„o Mateus;S„o Paulo;SP;heloisa8083@hotmail.com;Junior;2763.0;2023-12-02;Ativo
+79;Clara Silva;1966-03-02;58;F;(11) 93346-1687;Avenida Jo„o XXIII, 4773;Vila Formosa;S„o Paulo;SP;clara3452@terra.com.br;Pleno;4296.45;2022-08-15;Ativo
+80;Isabel Freitas;1987-04-15;37;F;(11) 98973-8191;Avenida Regente FeijÛ, 1729;Jardim An·lia Franco;S„o Paulo;SP;isabel2775@gmail.com;Pleno;3913.98;2022-11-23;Ativo
+81;AÅgatha da Luz;2006-02-16;18;F;(11) 99334-3766;Rua Eleonora Cintra, 3895;Jardim An·lia Franco;S„o Paulo;SP;agatha9805@outlook.com;Junior;2143.96;2022-02-15;Ativo
+82;Luan Carvalho;2003-12-14;21;M;(11) 97987-8288;Rua Tuiuti, 209;TatuapÈ;S„o Paulo;SP;luan2068@bol.com.br;Junior;2554.31;2024-06-23;Ativo
+83;Dra. Rebeca Vargas;1977-03-25;47;F;(11) 95562-2908;Rua Bresser, 7381;Br·s;S„o Paulo;SP;dra.1296@hotmail.com;Pleno;4157.64;2023-11-06;Ativo
+84;Gustavo da Paz;1996-08-17;28;M;(11) 99402-2213;Rua Oriente, 2667;Br·s;S„o Paulo;SP;gustavo5158@ig.com.br;Pleno;4190.27;2024-09-07;Ativo
+85;Jo„o Vitor Moreira;1983-06-10;41;M;(11) 97163-4607;Rua Oriente, 3219;Br·s;S„o Paulo;SP;jo„o3206@ig.com.br;Senior;7695.5;2019-05-26;Ativo
+86;Sara Caldeira;1985-02-01;39;F;(11) 92453-9459;Avenida Conselheiro Carr„o, 3165;Carr„o;S„o Paulo;SP;sara3510@terra.com.br;Pleno;3829.48;2024-07-27;Ativo
+87;Leandro Almeida;1983-06-25;41;M;(11) 95310-7230;Rua Oriente, 9237;Br·s;S„o Paulo;SP;leandro9567@ig.com.br;Senior;6123.4;2021-05-04;Ativo
+88;Sr. Arthur Gabriel FogaÁa;1992-08-09;32;M;(11) 98947-9031;Rua Juvenal Galeno, 8791;Mooca;S„o Paulo;SP;sr.6426@terra.com.br;Pleno;5601.73;2021-01-07;Ativo
+89;Mariana Souza;1988-05-17;36;F;(11) 95706-7874;Avenida Mateo Bei, 1681;S„o Mateus;S„o Paulo;SP;mariana5332@uol.com.br;Junior;3444.38;2021-06-15;Ativo
+90;JosÈ Pedro Rocha;1993-09-18;31;M;(11) 97522-3098;Rua Doutor Jo„o Ribeiro, 2986;Penha;S„o Paulo;SP;josÈ7926@terra.com.br;Pleno;5151.53;2024-03-18;Ativo
+91;Srta. √Ågatha Moura;1990-12-17;34;F;(11) 97701-1996;Rua Doutor Jo„o Ribeiro, 574;Penha;S„o Paulo;SP;srta.5296@bol.com.br;Pleno;4768.72;2022-04-06;Ativo
+92;Sra. LetÌcia Sousa;1994-04-12;30;F;(11) 95396-8954;Rua Juvenal Galeno, 6512;Mooca;S„o Paulo;SP;sra.3588@ig.com.br;Pleno;4496.7;2023-12-16;Ativo
+93;Evelyn Caldeira;1992-07-16;32;F;(11) 94378-2807;Rua Toledo Barbosa, 7434;BelÈm;S„o Paulo;SP;evelyn5402@bol.com.br;Junior;2858.76;2023-08-06;Ativo
+94;Dr. Arthur Gabriel Souza;1991-02-19;33;M;(11) 96778-2039;Rua Tuiuti, 445;TatuapÈ;S„o Paulo;SP;dr.807@ig.com.br;Junior;3170.65;2023-04-03;Ativo
+95;Sr. Rael FogaÁa;1980-03-29;44;M;(11) 97125-6431;Rua Tuiuti, 2672;TatuapÈ;S„o Paulo;SP;sr.3533@uol.com.br;Senior;6302.67;2023-06-09;Ativo
+96;Marcos Vinicius Carvalho;2006-03-02;18;M;(11) 91692-3571;Rua Herval, 428;BelÈm;S„o Paulo;SP;marcos4940@hotmail.com;Junior;2752.25;2024-11-26;Ativo
+97;Luiz Gustavo da Mata;1974-04-26;50;M;(11) 95423-2391;Rua Augusto Carlos Bauman, 4563;Itaquera;S„o Paulo;SP;luiz1211@outlook.com;Pleno;5138.19;2020-05-21;Ativo
+98;Srta. Zoe Rios;1964-11-26;60;F;(11) 96303-7965;Rua Herval, 1665;BelÈm;S„o Paulo;SP;srta.384@bol.com.br;Junior;3247.21;2023-05-22;Ativo
+99;Lunna Guerra;1976-04-17;48;F;(11) 98037-2524;Rua Maria Augusta da Silva, 1733;S„o Mateus;S„o Paulo;SP;lunna6658@gmail.com;Senior;7516.7;2021-12-18;Ativo
+100;Ana Sophia Caldeira;1985-09-06;39;F;(11) 99955-2774;Rua Eleonora Cintra, 6365;Jardim An·lia Franco;S„o Paulo;SP;ana3672@uol.com.br;Pleno;5318.89;2019-03-12;Ativo
